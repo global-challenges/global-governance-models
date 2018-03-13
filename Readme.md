@@ -14,32 +14,33 @@ To improve and synthesize ideas you need a personal Github account. [You can reg
 
 ## Improving a single idea
 
-![alt text][https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/1.png]
+![alt text](https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/1.png)
 
-Navigate to the idea you want to improve, for example [22. Hans Kelsen: Peace through law
+### 1. Navigate to the idea you want to improve
+For example [22. Hans Kelsen: Peace through law
 ](https://github.com/global-challenges/global-governance-models/blob/master/22.%20Hans%20Kelsen%20-%20Peace%20through%20law.md)
 
-![alt text][https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/2.png]
+![alt text](https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/2.png)
 
-Press the pencil icon in the top right corner (tooltip "Edit this file")
+### 2. Press the pencil icon in the top right corner of the idea (tooltip will say "Edit this file")
 
-Make your desired changes to the idea.
+### 3. Make your desired changes to the idea.
 
-![alt text][https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/3.png]
+![alt text](https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/3.png)
 
-Scroll to the bottom of the page where it says "Propose file change" and enter a descriptive text for your changes. Click the button "Propose file change" to move to the next step.
+### 4. Scroll to the bottom of the page where it says "Propose file change" and enter a descriptive text for your changes. Click the button "Propose file change" to move to the next step.
 
-![alt text][https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/4.png]
+![alt text](https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/4.png)
 
-On the next page, click the button "Create pull request" to generate a request to update the idea using your proposed changes.
-
-
-![alt text][https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/5.png]
-
-Click "Create pull request" again to save and finish.
+### 5. On the next page, click the button "Create pull request" to generate a request to update the idea using your proposed changes.
 
 
-_Your request is now saved and visible to everyone. Your changes will be reviewed by a panel of experts who decide if they qualify as updates to the original idea. You can make comments and follow the progress either on Github or via your email._
+![alt text](https://raw.githubusercontent.com/global-challenges/global-governance-models/master/images/5.png)
+
+### 6. Click "Create pull request" again to save and finish.
+
+
+Your request is now saved and visible to everyone. Your suggestion will be reviewed by a panel of experts who decide if it qualifies as an update to the original idea. You can make comments and follow the progress either on Github or via your email.
 
 
 ## Synthesizing multiple ideas
